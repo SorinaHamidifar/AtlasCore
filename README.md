@@ -16,7 +16,7 @@ from core.projects import ProjectHub
 
 
 def run():
-    print("🏗 AmbitionHub Initialized")
+    print("🏗 Ambit Initialized")
     print("🚀 Ambitious Projects | 📈 Scalable Systems | 💡 Powerful Ideas\n")
 
     engine = ScalabilityEngine()
