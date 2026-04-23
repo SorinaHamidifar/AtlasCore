@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for AmbitionHub.
+Main entry point foring AmbitionHub.
 """
 
 from core.scaling import ScalabilityEngine
