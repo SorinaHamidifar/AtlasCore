@@ -12,7 +12,7 @@ Main entry point for AmbitionHub.
 """
 
 from core.scaling import ScalabilityEngine
-from core.projects import Ambitio ProjectHub
+from core.projects import Ambit ProjectHub
 
 
 def run():
