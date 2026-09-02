@@ -1,5 +1,5 @@
 # ==========================================
-# Project: AmbitionHub for ambitious coding projects, des
+# Project: AmbitionHub for ambitious coding projects, 
 # Description:
 # A central hub for ambitious coding projects, designed
 # to support scalable systems and powerful ideas.
